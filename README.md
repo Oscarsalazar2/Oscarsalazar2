@@ -1,4 +1,4 @@
-# 👋 Hola, soy Oscar Salazar
+# Hola, soy Oscar Salazar
 
 Estudiante de Ingeniería en Sistemas Computacionales  
 Interesado en **desarrollo backend**, **desarrollo web**, **redes** y **proyectos IoT**  
@@ -54,7 +54,7 @@ Uso de mapas interactivos y herramientas de geolocalización.
 
 ##  Contacto
 
-Email: [Oscar Salazar](oskar.salazar2016@gmail.com)
+Email: oskar.salazar2016@gmail.com
 LinkedIn: [Oscar Salazar](https://www.linkedin.com/in/oscar-salazar-8153aa345/)
 
 ---
