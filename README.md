@@ -44,14 +44,6 @@ Uso de mapas interactivos y herramientas de geolocalización.
 
 ---
 
-##  Actividad en GitHub
-
-![Oscar GitHub stats](https://github-readme-stats.vercel.app/api?username=Oscarsalazar2&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Oscarsalazar2&layout=compact&theme=tokyonight)
-
----
-
 ##  Contacto
 
 Email: oskar.salazar2016@gmail.com
