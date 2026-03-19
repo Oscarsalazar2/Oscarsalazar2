@@ -1,3 +1,8 @@
+
+# Project Title
+
+A brief description of what this project does and who it's for
+
 # Hola, soy Oscar Salazar
 
 Estudiante de Ingeniería en Sistemas Computacionales  
@@ -50,5 +55,11 @@ Email: oskar.salazar2016@gmail.com
 LinkedIn: [Oscar Salazar](https://www.linkedin.com/in/oscar-salazar-8153aa345/)
 
 ---
+##  Estadisticas
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=OscarSalazar2&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OscarSalazar2)](https://github.com/OscarSalazar2/github-readme-stats)
+
 
 *Perfil en crecimiento, enfocado en aprendizaje continuo y buenas prácticas de desarrollo.*
